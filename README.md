@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coderutkarsh8874
-- 👀 I’m interested in Python Baics
-- 🌱 I’m currently learning ...Python Baics
+- 👀 I’m interested in Python and Java
+- 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
