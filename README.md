@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on a full-stack e-commerce website<br>I’m looking to collaborate on AI/ML projects and full-stack web apps<br>I’m looking for help with deploying scalable ML models<br>I’m currently learning React, Node.js, and system design<br>Ask me about Java, JavaScript, and Machine Learning<br>Fun fact: I enjoy turning ideas into real-world projects
+I’m currently working on a full-stack e-commerce website<br>I’m looking to collaborate on AI/ML projects and full-stack web apps<br>I’m looking for help with deploying scalable ML models<br>I’m currently learning React, Node.js, and system design<br>Ask me about Python, Java, JavaScript, and Machine Learning<br>Fun fact: I enjoy turning ideas into real-world projects
 
 
 ## 🌐 Socials:
